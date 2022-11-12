@@ -1,6 +1,6 @@
 # room-booking-website
 book and store a room in a database linked booking site  
-the website uses php, html, css and some js 
+the website uses php, html, sass, css and some js 
 it has 3 main pages; delhi, next and bookings 
 rest all are either the picture files or js/css files  
 
